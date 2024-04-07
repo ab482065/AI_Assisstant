@@ -1,6 +1,6 @@
-# pip install streamlit
-# pip install audio-recorder-streamlit
-# pip install openai
+pip install streamlit
+pip install audio-recorder-streamlit
+pip install openai
 
 import streamlit as st
 from audio_recorder_streamlit import audio_recorder
